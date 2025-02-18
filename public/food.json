@@ -1,0 +1,1508 @@
+{
+    "breakfast": [
+        {
+            "Display_Name": "Bran, multigrain, or wheat waffle",
+            "Calories": 115.05,
+            "Saturated_Fats": 0.9165
+        },
+        {
+            "Display_Name": "Pastrami (beef)",
+            "Calories": 97.72,
+            "Saturated_Fats": 2.9176
+        },
+        {
+            "Display_Name": "Mole poblana sauce",
+            "Calories": 78.175,
+            "Saturated_Fats": 1.30512
+        },
+        {
+            "Display_Name": "Meatless fried chicken (breaded)",
+            "Calories": 84.24,
+            "Saturated_Fats": 0.4068
+        },
+        {
+            "Display_Name": "Deli ham (extra lean)",
+            "Calories": 36.68,
+            "Saturated_Fats": 0.4536
+        },
+        {
+            "Display_Name": "Baked Pringles potato chips",
+            "Calories": 107.87,
+            "Saturated_Fats": 0.6049
+        },
+        {
+            "Display_Name": "Boiled potatoes",
+            "Calories": 141.95,
+            "Saturated_Fats": 0.0501
+        },
+        {
+            "Display_Name": "Glazed carrots",
+            "Calories": 100.625,
+            "Saturated_Fats": 1.0787
+        },
+        {
+            "Display_Name": "Steamed crab (hard shell)",
+            "Calories": 48.48,
+            "Saturated_Fats": 0.1056
+        },
+        {
+            "Display_Name": "Ground beef (80% lean)",
+            "Calories": 190.99,
+            "Saturated_Fats": 4.7499
+        },
+        {
+            "Display_Name": "Green tomato-chile sauce",
+            "Calories": 45.51,
+            "Saturated_Fats": 0.85485
+        },
+        {
+            "Display_Name": "Roasted potatoes",
+            "Calories": 143.85,
+            "Saturated_Fats": 0.0525
+        },
+        {
+            "Display_Name": "Papaya (raw)",
+            "Calories": 29.64,
+            "Saturated_Fats": 0.0304
+        },
+        {
+            "Display_Name": "Pecan pie",
+            "Calories": 456.0,
+            "Saturated_Fats": 4.0356
+        },
+        {
+            "Display_Name": "Soft drink, regular",
+            "Calories": 154.98,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "White bread",
+            "Calories": 53.2,
+            "Saturated_Fats": 0.162
+        },
+        {
+            "Display_Name": "Matzo ball soup",
+            "Calories": 118.09,
+            "Saturated_Fats": 1.31586
+        },
+        {
+            "Display_Name": "Caramel corn",
+            "Calories": 150.85,
+            "Saturated_Fats": 1.2635
+        },
+        {
+            "Display_Name": "Lemonade",
+            "Calories": 99.2,
+            "Saturated_Fats": 0.01736
+        },
+        {
+            "Display_Name": "Cranberry juice (100% juice)",
+            "Calories": 116.38,
+            "Saturated_Fats": 0.0253
+        },
+        {
+            "Display_Name": "Vegetable oil (canola, corn, olive, etc)",
+            "Calories": 120.224,
+            "Saturated_Fats": 1.7068
+        },
+        {
+            "Display_Name": "Lentils",
+            "Calories": 109.825,
+            "Saturated_Fats": 0.04775
+        },
+        {
+            "Display_Name": "Spinach quiche",
+            "Calories": 341.77,
+            "Saturated_Fats": 12.0549
+        },
+        {
+            "Display_Name": "Whiskey (bourbon, scotch, rye)",
+            "Calories": 140.0,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Fat-free American cheese",
+            "Calories": 41.81,
+            "Saturated_Fats": 0.14125
+        },
+        {
+            "Display_Name": "Peach (raw)",
+            "Calories": 38.22,
+            "Saturated_Fats": 0.0196
+        },
+        {
+            "Display_Name": "Lo mein (meatless)",
+            "Calories": 234.0,
+            "Saturated_Fats": 1.0
+        },
+        {
+            "Display_Name": "Meat ravioli with tomato sauce",
+            "Calories": 104.165,
+            "Saturated_Fats": 0.7279
+        },
+        {
+            "Display_Name": "Orange (raw)",
+            "Calories": 61.57,
+            "Saturated_Fats": 0.0131
+        },
+        {
+            "Display_Name": "Frosted sweet roll or cinnamon bun",
+            "Calories": 189.0,
+            "Saturated_Fats": 1.435
+        },
+        {
+            "Display_Name": "Stuffed baked potato (with cheese)",
+            "Calories": 114.675,
+            "Saturated_Fats": 1.98825
+        },
+        {
+            "Display_Name": "Coleslaw",
+            "Calories": 134.32,
+            "Saturated_Fats": 1.794
+        },
+        {
+            "Display_Name": "Lentils",
+            "Calories": 109.825,
+            "Saturated_Fats": 0.04775
+        },
+        {
+            "Display_Name": "Latte",
+            "Calories": 169.75,
+            "Saturated_Fats": 3.9285
+        },
+        {
+            "Display_Name": "Low-calorie frozen fruit juice bar",
+            "Calories": 23.76,
+            "Saturated_Fats": 0.0108
+        },
+        {
+            "Display_Name": "Grits, with butter",
+            "Calories": 88.92,
+            "Saturated_Fats": 0.75335
+        },
+        {
+            "Display_Name": "Ground beef (95% lean)",
+            "Calories": 42.64,
+            "Saturated_Fats": 0.70148
+        },
+        {
+            "Display_Name": "Chex cereal (corn, wheat, or bran)",
+            "Calories": 143.13,
+            "Saturated_Fats": 0.1365
+        },
+        {
+            "Display_Name": "Fat-free mayonnaise-type dressing",
+            "Calories": 53.76,
+            "Saturated_Fats": 0.384
+        },
+        {
+            "Display_Name": "Dietetic topping",
+            "Calories": 32.915,
+            "Saturated_Fats": 0.48805
+        },
+        {
+            "Display_Name": "Carrot juice",
+            "Calories": 94.4,
+            "Saturated_Fats": 0.0708
+        },
+        {
+            "Display_Name": "Apple (raw)",
+            "Calories": 8.84,
+            "Saturated_Fats": 0.0051
+        },
+        {
+            "Display_Name": "Vegetable pizza, thick crust",
+            "Calories": 385.32,
+            "Saturated_Fats": 4.8516
+        },
+        {
+            "Display_Name": "Vegetable shortening",
+            "Calories": 37.34016,
+            "Saturated_Fats": 0.84776
+        },
+        {
+            "Display_Name": "Smoked ham (lean)",
+            "Calories": 178.038,
+            "Saturated_Fats": 2.08656
+        },
+        {
+            "Display_Name": "Hamburger, plain on bun",
+            "Calories": 269.7,
+            "Saturated_Fats": 3.9432
+        },
+        {
+            "Display_Name": "Spaghetti, macaroni, or pasta (plain)",
+            "Calories": 32.2,
+            "Saturated_Fats": 0.0207
+        },
+        {
+            "Display_Name": "Beef, bean, and cheese burrito",
+            "Calories": 765.33,
+            "Saturated_Fats": 20.3118
+        },
+        {
+            "Display_Name": "Nectarine (raw)",
+            "Calories": 59.84,
+            "Saturated_Fats": 0.0408
+        },
+        {
+            "Display_Name": "Jelly",
+            "Calories": 37.24,
+            "Saturated_Fats": 0.0014
+        },
+        {
+            "Display_Name": "Meal replacement powder (Slim Fast)",
+            "Calories": 48.6,
+            "Saturated_Fats": 0.027
+        },
+        {
+            "Display_Name": "Baked chicken dark meat (eat skin)",
+            "Calories": 216.2,
+            "Saturated_Fats": 3.4592
+        },
+        {
+            "Display_Name": "Ground beef (80% lean)",
+            "Calories": 190.99,
+            "Saturated_Fats": 4.7499
+        },
+        {
+            "Display_Name": "Wheat or cracked wheat bread",
+            "Calories": 78.0,
+            "Saturated_Fats": 0.267
+        },
+        {
+            "Display_Name": "Soft drink, regular",
+            "Calories": 283.92,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Grilled pork chop (eat lean only)",
+            "Calories": 268.32,
+            "Saturated_Fats": 4.6569
+        },
+        {
+            "Display_Name": "Tortilla chips (Doritos, Tostitos)",
+            "Calories": 300.6,
+            "Saturated_Fats": 3.012
+        },
+        {
+            "Display_Name": "Flour (wheat) tortilla",
+            "Calories": 97.5,
+            "Saturated_Fats": 0.525
+        },
+        {
+            "Display_Name": "Tator tots",
+            "Calories": 142.08,
+            "Saturated_Fats": 3.2576
+        },
+        {
+            "Display_Name": "Meat & veggie pizza, thick crust",
+            "Calories": 233.16,
+            "Saturated_Fats": 3.6192
+        },
+        {
+            "Display_Name": "Chicken chimichanga",
+            "Calories": 631.35,
+            "Saturated_Fats": 12.9789
+        },
+        {
+            "Display_Name": "Frosted sweet roll or cinnamon bun",
+            "Calories": 147.42,
+            "Saturated_Fats": 1.1193
+        },
+        {
+            "Display_Name": "Broiled veal chop",
+            "Calories": 230.05,
+            "Saturated_Fats": 5.58112
+        },
+        {
+            "Display_Name": "Noodle pudding",
+            "Calories": 148.32,
+            "Saturated_Fats": 1.1052
+        },
+        {
+            "Display_Name": "Sausage biscuit",
+            "Calories": 437.92,
+            "Saturated_Fats": 12.8464
+        },
+        {
+            "Display_Name": "Dietetic topping",
+            "Calories": 32.915,
+            "Saturated_Fats": 0.48805
+        },
+        {
+            "Display_Name": "Whole wheat tortilla",
+            "Calories": 136.76,
+            "Saturated_Fats": 0.1144
+        },
+        {
+            "Display_Name": "Steamed crab (hard shell)",
+            "Calories": 54.54,
+            "Saturated_Fats": 0.1188
+        },
+        {
+            "Display_Name": "Fruit-filled Danish pastry",
+            "Calories": 263.41,
+            "Saturated_Fats": 3.4506
+        },
+        {
+            "Display_Name": "Smoked ham (lean)",
+            "Calories": 178.038,
+            "Saturated_Fats": 2.08656
+        },
+        {
+            "Display_Name": "Radish",
+            "Calories": 0.16,
+            "Saturated_Fats": 0.0003
+        },
+        {
+            "Display_Name": "Smoked ham (lean)",
+            "Calories": 98.91,
+            "Saturated_Fats": 1.1592
+        },
+        {
+            "Display_Name": "Butter",
+            "Calories": 202.5525,
+            "Saturated_Fats": 14.51203
+        },
+        {
+            "Display_Name": "Raw tomatoes",
+            "Calories": 3.6,
+            "Saturated_Fats": 0.008
+        },
+        {
+            "Display_Name": "Mayonnaise, regular",
+            "Calories": 98.946,
+            "Saturated_Fats": 1.63944
+        },
+        {
+            "Display_Name": "Fried tofu",
+            "Calories": 35.23,
+            "Saturated_Fats": 0.37934
+        },
+        {
+            "Display_Name": "100% whole wheat bread",
+            "Calories": 56.58,
+            "Saturated_Fats": 0.2116
+        },
+        {
+            "Display_Name": "Chicken with rice diet frozen meal",
+            "Calories": 272.33,
+            "Saturated_Fats": 1.7352
+        },
+        {
+            "Display_Name": "Battered fried chicken (eat skin)",
+            "Calories": 249.4,
+            "Saturated_Fats": 3.7066
+        },
+        {
+            "Display_Name": "Hollandaise sauce",
+            "Calories": 267.9225,
+            "Saturated_Fats": 16.7307
+        },
+        {
+            "Display_Name": "Breaded pork chop (eat lean & fat)",
+            "Calories": 359.478,
+            "Saturated_Fats": 6.4071
+        },
+        {
+            "Display_Name": "Dry milk powder, low fat",
+            "Calories": 109.8,
+            "Saturated_Fats": 0.411
+        },
+        {
+            "Display_Name": "Brownie, no icing",
+            "Calories": 234.98,
+            "Saturated_Fats": 1.767
+        },
+        {
+            "Display_Name": "Nut topping (wet)",
+            "Calories": 367.36,
+            "Saturated_Fats": 1.6072
+        },
+        {
+            "Display_Name": "White sauce (cream sauce)",
+            "Calories": 90.625,
+            "Saturated_Fats": 1.7125
+        },
+        {
+            "Display_Name": "Snack cracker",
+            "Calories": 15.06,
+            "Saturated_Fats": 0.1134
+        },
+        {
+            "Display_Name": "Bread stick",
+            "Calories": 8.24,
+            "Saturated_Fats": 0.0282
+        },
+        {
+            "Display_Name": "White sugar (granulated or lump)",
+            "Calories": 19.35,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "100% Fruit juice blend (Juicy Juice)",
+            "Calories": 132.5,
+            "Saturated_Fats": 0.05
+        },
+        {
+            "Display_Name": "Peanut sauce",
+            "Calories": 44.1,
+            "Saturated_Fats": 0.7238
+        },
+        {
+            "Display_Name": "Honeydew melon (raw)",
+            "Calories": 31.86,
+            "Saturated_Fats": 0.0354
+        },
+        {
+            "Display_Name": "Baked or broiled catfish",
+            "Calories": 208.656,
+            "Saturated_Fats": 2.9484
+        },
+        {
+            "Display_Name": "Sherbet",
+            "Calories": 277.92,
+            "Saturated_Fats": 2.2388
+        },
+        {
+            "Display_Name": "Sweet & sour pork",
+            "Calories": 115.26,
+            "Saturated_Fats": 1.0622
+        },
+        {
+            "Display_Name": "Chocolate raised doughnut, frosted",
+            "Calories": 394.74,
+            "Saturated_Fats": 6.2016
+        },
+        {
+            "Display_Name": "Avocado",
+            "Calories": 243.2,
+            "Saturated_Fats": 3.2376
+        },
+        {
+            "Display_Name": "Ground beef (85% lean)",
+            "Calories": 238.08,
+            "Saturated_Fats": 5.5776
+        },
+        {
+            "Display_Name": "Breaded pork chop (eat lean only)",
+            "Calories": 226.4,
+            "Saturated_Fats": 3.048
+        },
+        {
+            "Display_Name": "Grilled steak (eat lean & fat)",
+            "Calories": 688.16,
+            "Saturated_Fats": 15.9392
+        },
+        {
+            "Display_Name": "Au gratin potatoes",
+            "Calories": 153.72,
+            "Saturated_Fats": 2.9158
+        }
+    ],
+    "lunch": [
+        {
+            "Display_Name": "Meat & veggie pizza, thick crust",
+            "Calories": 233.16,
+            "Saturated_Fats": 3.6192
+        },
+        {
+            "Display_Name": "Chicken patty or fillet (breaded)",
+            "Calories": 261.36,
+            "Saturated_Fats": 3.53936
+        },
+        {
+            "Display_Name": "Steamed or boiled shrimp",
+            "Calories": 69.0,
+            "Saturated_Fats": 0.215
+        },
+        {
+            "Display_Name": "White sugar (granulated or lump)",
+            "Calories": 23.22,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Milk chocolate bar or candy (plain)",
+            "Calories": 74.9,
+            "Saturated_Fats": 1.995
+        },
+        {
+            "Display_Name": "Raw carrots",
+            "Calories": 25.01,
+            "Saturated_Fats": 0.0183
+        },
+        {
+            "Display_Name": "Fast Break candy bar (Reese's)",
+            "Calories": 282.15,
+            "Saturated_Fats": 4.58052
+        },
+        {
+            "Display_Name": "Pita bread (100% whole wheat)",
+            "Calories": 226.1,
+            "Saturated_Fats": 0.3485
+        },
+        {
+            "Display_Name": "Beef brisket",
+            "Calories": 211.6,
+            "Saturated_Fats": 3.7996
+        },
+        {
+            "Display_Name": "Cooked carrots",
+            "Calories": 26.075,
+            "Saturated_Fats": 0.0298
+        },
+        {
+            "Display_Name": "Refrigerated biscuit (canned dough)",
+            "Calories": 65.74,
+            "Saturated_Fats": 0.703
+        },
+        {
+            "Display_Name": "Raisins",
+            "Calories": 108.3875,
+            "Saturated_Fats": 0.02175
+        },
+        {
+            "Display_Name": "Chocolate milk, fat free (skim)",
+            "Calories": 140.0,
+            "Saturated_Fats": 0.575
+        },
+        {
+            "Display_Name": "Battered fried chicken (eat skin)",
+            "Calories": 249.4,
+            "Saturated_Fats": 3.7066
+        },
+        {
+            "Display_Name": "Pita bread (white)",
+            "Calories": 233.75,
+            "Saturated_Fats": 0.1445
+        },
+        {
+            "Display_Name": "Tortilla soup",
+            "Calories": 237.6,
+            "Saturated_Fats": 4.2
+        },
+        {
+            "Display_Name": "Ramen noodle soup",
+            "Calories": 160.77,
+            "Saturated_Fats": 2.7028
+        },
+        {
+            "Display_Name": "Applesauce (sweetened)",
+            "Calories": 96.9,
+            "Saturated_Fats": 0.03825
+        },
+        {
+            "Display_Name": "Margarita",
+            "Calories": 425.754,
+            "Saturated_Fats": 0.03906
+        },
+        {
+            "Display_Name": "Cream cheese (regular)",
+            "Calories": 34.9,
+            "Saturated_Fats": 2.197
+        },
+        {
+            "Display_Name": "Split pea soup with ham",
+            "Calories": 195.0,
+            "Saturated_Fats": 1.67
+        },
+        {
+            "Display_Name": "Powdered sugar (confectioner's sugar)",
+            "Calories": 116.7,
+            "Saturated_Fats": 0.006
+        },
+        {
+            "Display_Name": "Rye bread",
+            "Calories": 67.34,
+            "Saturated_Fats": 0.1638
+        },
+        {
+            "Display_Name": "Chili con carne (with beans)",
+            "Calories": 132.08,
+            "Saturated_Fats": 1.9939
+        },
+        {
+            "Display_Name": "Coffee",
+            "Calories": 9.48,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Au gratin potatoes",
+            "Calories": 153.72,
+            "Saturated_Fats": 2.9158
+        },
+        {
+            "Display_Name": "Raised doughnut",
+            "Calories": 124.93,
+            "Saturated_Fats": 1.8011
+        },
+        {
+            "Display_Name": "Popcorn (oil popped, no butter)",
+            "Calories": 55.0,
+            "Saturated_Fats": 0.5379
+        },
+        {
+            "Display_Name": "Grapefruit (raw)",
+            "Calories": 32.0,
+            "Saturated_Fats": 0.01
+        },
+        {
+            "Display_Name": "Lucky Charms cereal",
+            "Calories": 110.2,
+            "Saturated_Fats": 0.232
+        },
+        {
+            "Display_Name": "Pancakes",
+            "Calories": 183.2,
+            "Saturated_Fats": 0.616
+        },
+        {
+            "Display_Name": "Bran muffin",
+            "Calories": 194.7,
+            "Saturated_Fats": 0.8976
+        },
+        {
+            "Display_Name": "Fat-free berry or banana muffin",
+            "Calories": 172.26,
+            "Saturated_Fats": 0.066
+        },
+        {
+            "Display_Name": "Feta or goat cheese",
+            "Calories": 100.32,
+            "Saturated_Fats": 5.681
+        },
+        {
+            "Display_Name": "Marshmallows",
+            "Calories": 22.896,
+            "Saturated_Fats": 0.00432
+        },
+        {
+            "Display_Name": "Grilled pork chop (eat lean & fat)",
+            "Calories": 216.0,
+            "Saturated_Fats": 4.662
+        },
+        {
+            "Display_Name": "Baked chicken drumstick (no skin)",
+            "Calories": 99.18,
+            "Saturated_Fats": 0.8468
+        },
+        {
+            "Display_Name": "Apple (raw)",
+            "Calories": 71.76,
+            "Saturated_Fats": 0.0414
+        },
+        {
+            "Display_Name": "Roast beef (eat lean & fat)",
+            "Calories": 301.644,
+            "Saturated_Fats": 7.75656
+        },
+        {
+            "Display_Name": "Taco or tostada shell",
+            "Calories": 23.4,
+            "Saturated_Fats": 0.1625
+        },
+        {
+            "Display_Name": "Chow fun rice noodles",
+            "Calories": 171.2,
+            "Saturated_Fats": 0.176
+        },
+        {
+            "Display_Name": "Raised doughnut",
+            "Calories": 241.8,
+            "Saturated_Fats": 3.486
+        },
+        {
+            "Display_Name": "Orange (raw)",
+            "Calories": 86.48,
+            "Saturated_Fats": 0.0184
+        },
+        {
+            "Display_Name": "French fries, oven-baked",
+            "Calories": 161.19,
+            "Saturated_Fats": 1.0125
+        },
+        {
+            "Display_Name": "Wrap sandwich (vegetables, rice)",
+            "Calories": 674.68,
+            "Saturated_Fats": 8.41128
+        },
+        {
+            "Display_Name": "Breaded fried steak (eat lean & fat)",
+            "Calories": 801.9,
+            "Saturated_Fats": 16.1109
+        },
+        {
+            "Display_Name": "Meatball Sub",
+            "Calories": 611.04,
+            "Saturated_Fats": 11.0952
+        },
+        {
+            "Display_Name": "Fig bar (Fig Newton)",
+            "Calories": 55.68,
+            "Saturated_Fats": 0.1792
+        },
+        {
+            "Display_Name": "Raw cauliflower",
+            "Calories": 12.5,
+            "Saturated_Fats": 0.015
+        },
+        {
+            "Display_Name": "Oreo or thin mint cookie",
+            "Calories": 13.216,
+            "Saturated_Fats": 0.10248
+        },
+        {
+            "Display_Name": "BBQ short ribs with sauce",
+            "Calories": 46.42,
+            "Saturated_Fats": 1.0516
+        },
+        {
+            "Display_Name": "Baked beans",
+            "Calories": 118.11,
+            "Saturated_Fats": 0.1524
+        },
+        {
+            "Display_Name": "Chocolate milk, whole milk",
+            "Calories": 207.5,
+            "Saturated_Fats": 5.25
+        },
+        {
+            "Display_Name": "Greens with ham or pork",
+            "Calories": 38.88,
+            "Saturated_Fats": 0.576
+        },
+        {
+            "Display_Name": "Bacon",
+            "Calories": 64.92,
+            "Saturated_Fats": 1.6488
+        },
+        {
+            "Display_Name": "Smoked ham (lean)",
+            "Calories": 65.94,
+            "Saturated_Fats": 0.7728
+        },
+        {
+            "Display_Name": "2% milk (reduced fat)",
+            "Calories": 122.0,
+            "Saturated_Fats": 3.0744
+        },
+        {
+            "Display_Name": "Apple (raw)",
+            "Calories": 71.76,
+            "Saturated_Fats": 0.0414
+        },
+        {
+            "Display_Name": "Chicken chimichanga",
+            "Calories": 631.35,
+            "Saturated_Fats": 12.9789
+        },
+        {
+            "Display_Name": "Stuffed baked potato (with sour cream)",
+            "Calories": 125.96,
+            "Saturated_Fats": 3.29
+        },
+        {
+            "Display_Name": "Raw onion",
+            "Calories": 5.88,
+            "Saturated_Fats": 0.0042
+        },
+        {
+            "Display_Name": "Meat and cheese quesadilla",
+            "Calories": 605.36,
+            "Saturated_Fats": 16.1736
+        },
+        {
+            "Display_Name": "Whole wheat tortilla",
+            "Calories": 105.2,
+            "Saturated_Fats": 0.088
+        },
+        {
+            "Display_Name": "Deli ham (regular)",
+            "Calories": 119.07,
+            "Saturated_Fats": 1.9845
+        },
+        {
+            "Display_Name": "Deli ham (regular)",
+            "Calories": 119.07,
+            "Saturated_Fats": 1.9845
+        },
+        {
+            "Display_Name": "Peanut brittle",
+            "Calories": 62.92,
+            "Saturated_Fats": 0.5382
+        },
+        {
+            "Display_Name": "Baked potato, plain (don't eat peel)",
+            "Calories": 208.84,
+            "Saturated_Fats": 0.0681
+        },
+        {
+            "Display_Name": "Flax seed",
+            "Calories": 178.35,
+            "Saturated_Fats": 1.16
+        },
+        {
+            "Display_Name": "Snack cracker",
+            "Calories": 66.515,
+            "Saturated_Fats": 0.50085
+        },
+        {
+            "Display_Name": "Potato sticks",
+            "Calories": 146.16,
+            "Saturated_Fats": 2.4864
+        },
+        {
+            "Display_Name": "Bread stuffing",
+            "Calories": 176.0,
+            "Saturated_Fats": 1.63
+        },
+        {
+            "Display_Name": "Milk gravy",
+            "Calories": 88.125,
+            "Saturated_Fats": 2.775
+        },
+        {
+            "Display_Name": "Salisbury steak with gravy",
+            "Calories": 218.01,
+            "Saturated_Fats": 4.773
+        },
+        {
+            "Display_Name": "Meat & veggie pizza, thin crust",
+            "Calories": 384.91,
+            "Saturated_Fats": 7.65088
+        },
+        {
+            "Display_Name": "Granola bar",
+            "Calories": 129.92,
+            "Saturated_Fats": 3.5532
+        },
+        {
+            "Display_Name": "Baked potato, plain (don't eat peel)",
+            "Calories": 208.84,
+            "Saturated_Fats": 0.0681
+        },
+        {
+            "Display_Name": "Baked chicken thigh (no skin)",
+            "Calories": 144.9,
+            "Saturated_Fats": 2.1
+        },
+        {
+            "Display_Name": "Spaghetti with tomato sauce (meatless)",
+            "Calories": 250.48,
+            "Saturated_Fats": 0.4712
+        },
+        {
+            "Display_Name": "Raw tomatoes",
+            "Calories": 22.14,
+            "Saturated_Fats": 0.0492
+        },
+        {
+            "Display_Name": "Spaghetti sauce (meatless)",
+            "Calories": 71.25,
+            "Saturated_Fats": 0.3625
+        },
+        {
+            "Display_Name": "Persimmons (raw)",
+            "Calories": 117.6,
+            "Saturated_Fats": 0.0336
+        },
+        {
+            "Display_Name": "Taco or tostada shell",
+            "Calories": 62.244,
+            "Saturated_Fats": 0.43225
+        },
+        {
+            "Display_Name": "Meal replacement powder (Slim Fast)",
+            "Calories": 106.92,
+            "Saturated_Fats": 0.0594
+        },
+        {
+            "Display_Name": "Baked or broiled scallops",
+            "Calories": 124.74,
+            "Saturated_Fats": 0.61425
+        },
+        {
+            "Display_Name": "Beef with BBQ sauce",
+            "Calories": 228.81,
+            "Saturated_Fats": 3.95815
+        },
+        {
+            "Display_Name": "Fruit cocktail (canned in light syrup)",
+            "Calories": 68.97,
+            "Saturated_Fats": 0.0121
+        },
+        {
+            "Display_Name": "Meatless fried chicken (breaded)",
+            "Calories": 84.24,
+            "Saturated_Fats": 0.4068
+        },
+        {
+            "Display_Name": "Cappuccino",
+            "Calories": 160.38,
+            "Saturated_Fats": 4.5684
+        },
+        {
+            "Display_Name": "Blueberry or banana muffin",
+            "Calories": 182.82,
+            "Saturated_Fats": 0.924
+        },
+        {
+            "Display_Name": "Baked battered fish fillet",
+            "Calories": 155.04,
+            "Saturated_Fats": 1.7955
+        },
+        {
+            "Display_Name": "Beef jerky",
+            "Calories": 39.36,
+            "Saturated_Fats": 1.0416
+        },
+        {
+            "Display_Name": "Pork spareribs (eat lean & fat)",
+            "Calories": 177.75,
+            "Saturated_Fats": 4.9815
+        },
+        {
+            "Display_Name": "Pesto sauce",
+            "Calories": 329.76533,
+            "Saturated_Fats": 5.27223
+        },
+        {
+            "Display_Name": "Honey Nut Cheerios",
+            "Calories": 111.9,
+            "Saturated_Fats": 0.24
+        },
+        {
+            "Display_Name": "Froot Loops cereal",
+            "Calories": 110.04,
+            "Saturated_Fats": 0.4256
+        },
+        {
+            "Display_Name": "Breaded fried mushrooms",
+            "Calories": 17.68,
+            "Saturated_Fats": 0.1776
+        },
+        {
+            "Display_Name": "Greens, cooked with fat",
+            "Calories": 33.975,
+            "Saturated_Fats": 0.3624
+        },
+        {
+            "Display_Name": "Corn tortilla",
+            "Calories": 95.46,
+            "Saturated_Fats": 0.1419
+        },
+        {
+            "Display_Name": "Meat pizza, thin crust",
+            "Calories": 649.7275,
+            "Saturated_Fats": 13.37153
+        },
+        {
+            "Display_Name": "Chicken Parmigiana",
+            "Calories": 283.02,
+            "Saturated_Fats": 4.5951
+        }
+    ],
+    "dinner": [
+        {
+            "Display_Name": "Reduced-calorie spread (margarine type)",
+            "Calories": 50.025,
+            "Saturated_Fats": 1.1165
+        },
+        {
+            "Display_Name": "Tator tots",
+            "Calories": 142.08,
+            "Saturated_Fats": 3.2576
+        },
+        {
+            "Display_Name": "Chicken patty or fillet (breaded)",
+            "Calories": 299.97,
+            "Saturated_Fats": 4.06222
+        },
+        {
+            "Display_Name": "Apple chips",
+            "Calories": 101.2,
+            "Saturated_Fats": 0.34848
+        },
+        {
+            "Display_Name": "Liver and onions",
+            "Calories": 177.32,
+            "Saturated_Fats": 1.3156
+        },
+        {
+            "Display_Name": "Fruit drink (punch, ade, or cooler)",
+            "Calories": 100.32,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Onion rings",
+            "Calories": 157.38,
+            "Saturated_Fats": 1.419
+        },
+        {
+            "Display_Name": "Corn Pops cereal",
+            "Calories": 106.4,
+            "Saturated_Fats": 0.0644
+        },
+        {
+            "Display_Name": "Plain yogurt, whole milk",
+            "Calories": 138.47,
+            "Saturated_Fats": 4.767
+        },
+        {
+            "Display_Name": "Raised doughnut",
+            "Calories": 362.7,
+            "Saturated_Fats": 5.229
+        },
+        {
+            "Display_Name": "Raw sweet pepper (bell pepper)",
+            "Calories": 9.2,
+            "Saturated_Fats": 0.0276
+        },
+        {
+            "Display_Name": "Meat pizza, thin crust",
+            "Calories": 324.86375,
+            "Saturated_Fats": 6.68576
+        },
+        {
+            "Display_Name": "Wheat roll (part whole wheat)",
+            "Calories": 275.42,
+            "Saturated_Fats": 1.0434
+        },
+        {
+            "Display_Name": "Cooked hot peppers",
+            "Calories": 18.06,
+            "Saturated_Fats": 0.0086
+        },
+        {
+            "Display_Name": "Tofutti tofu frozen dessert",
+            "Calories": 180.4,
+            "Saturated_Fats": 2.5584
+        },
+        {
+            "Display_Name": "Cake doughnut",
+            "Calories": 197.87,
+            "Saturated_Fats": 1.7014
+        },
+        {
+            "Display_Name": "Vegetable oil (canola, corn, olive, etc)",
+            "Calories": 481.78,
+            "Saturated_Fats": 6.83975
+        },
+        {
+            "Display_Name": "Wheat Bagel (part whole wheat)",
+            "Calories": 74.36,
+            "Saturated_Fats": 0.0546
+        },
+        {
+            "Display_Name": "Water",
+            "Calories": 0.0,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Tomato cucumber salad, with oil & vinegar",
+            "Calories": 92.22,
+            "Saturated_Fats": 0.99375
+        },
+        {
+            "Display_Name": "Buttermilk biscuit",
+            "Calories": 280.28,
+            "Saturated_Fats": 1.9173
+        },
+        {
+            "Display_Name": "Animal cracker",
+            "Calories": 71.36,
+            "Saturated_Fats": 0.5536
+        },
+        {
+            "Display_Name": "Coffee",
+            "Calories": 14.2,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Meat pizza, thick crust",
+            "Calories": 759.22,
+            "Saturated_Fats": 12.0292
+        },
+        {
+            "Display_Name": "Special K cereal",
+            "Calories": 79.59,
+            "Saturated_Fats": 0.0735
+        },
+        {
+            "Display_Name": "Corn tortilla",
+            "Calories": 95.46,
+            "Saturated_Fats": 0.1419
+        },
+        {
+            "Display_Name": "Coffee Mate (liquid)",
+            "Calories": 40.8,
+            "Saturated_Fats": 0.582
+        },
+        {
+            "Display_Name": "All-Bran cereal",
+            "Calories": 156.0,
+            "Saturated_Fats": 0.324
+        },
+        {
+            "Display_Name": "Raisins",
+            "Calories": 41.86,
+            "Saturated_Fats": 0.0084
+        },
+        {
+            "Display_Name": "Slurpee or snow cone",
+            "Calories": 212.48,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Fried cheese sticks",
+            "Calories": 502.92,
+            "Saturated_Fats": 16.3548
+        },
+        {
+            "Display_Name": "Flavored yogurt, fat-free sugar-free",
+            "Calories": 97.61,
+            "Saturated_Fats": 0.2724
+        },
+        {
+            "Display_Name": "Fried oysters (breaded or battered)",
+            "Calories": 241.542,
+            "Saturated_Fats": 3.35664
+        },
+        {
+            "Display_Name": "Turkey breast lunch meat, fat free",
+            "Calories": 23.52,
+            "Saturated_Fats": 0.0574
+        },
+        {
+            "Display_Name": "Martini",
+            "Calories": 259.84,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Baked potato, plain (don't eat peel)",
+            "Calories": 96.6,
+            "Saturated_Fats": 0.0315
+        },
+        {
+            "Display_Name": "Roasted turkey (white & dark meat)",
+            "Calories": 47.32,
+            "Saturated_Fats": 0.4564
+        },
+        {
+            "Display_Name": "Ground beef (75% lean, regular)",
+            "Calories": 311.88,
+            "Saturated_Fats": 8.1586
+        },
+        {
+            "Display_Name": "Cassava bread",
+            "Calories": 299.0,
+            "Saturated_Fats": 0.131
+        },
+        {
+            "Display_Name": "Baked fish",
+            "Calories": 142.38,
+            "Saturated_Fats": 0.7571
+        },
+        {
+            "Display_Name": "Potato sticks",
+            "Calories": 146.16,
+            "Saturated_Fats": 2.4864
+        },
+        {
+            "Display_Name": "Corn puffs (Cheetos)",
+            "Calories": 193.9,
+            "Saturated_Fats": 2.3065
+        },
+        {
+            "Display_Name": "Chives",
+            "Calories": 0.9,
+            "Saturated_Fats": 0.0045
+        },
+        {
+            "Display_Name": "Diet high-fiber bread",
+            "Calories": 60.03,
+            "Saturated_Fats": 0.1595
+        },
+        {
+            "Display_Name": "Roast beef (eat lean & fat)",
+            "Calories": 167.58,
+            "Saturated_Fats": 4.3092
+        },
+        {
+            "Display_Name": "Fried chicken wing (no coating)",
+            "Calories": 89.04,
+            "Saturated_Fats": 1.6016
+        },
+        {
+            "Display_Name": "Feta or goat cheese",
+            "Calories": 99.0,
+            "Saturated_Fats": 5.60625
+        },
+        {
+            "Display_Name": "Protein powder",
+            "Calories": 37.293,
+            "Saturated_Fats": 0.1395
+        },
+        {
+            "Display_Name": "Cooked broccoli",
+            "Calories": 16.975,
+            "Saturated_Fats": 0.0388
+        },
+        {
+            "Display_Name": "Dill pickle",
+            "Calories": 24.3,
+            "Saturated_Fats": 0.0675
+        },
+        {
+            "Display_Name": "Hard candy",
+            "Calories": 31.52,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Sweet & sour pork on rice",
+            "Calories": 268.4,
+            "Saturated_Fats": 1.6104
+        },
+        {
+            "Display_Name": "Pop Tart",
+            "Calories": 204.36,
+            "Saturated_Fats": 0.7904
+        },
+        {
+            "Display_Name": "Chocolate wafer cookie",
+            "Calories": 25.98,
+            "Saturated_Fats": 0.2544
+        },
+        {
+            "Display_Name": "Water",
+            "Calories": 0.0,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Tuna salad (with celery, mayo)",
+            "Calories": 191.36,
+            "Saturated_Fats": 1.7992
+        },
+        {
+            "Display_Name": "Raw tomatoes",
+            "Calories": 3.6,
+            "Saturated_Fats": 0.008
+        },
+        {
+            "Display_Name": "Mashed potatoes (with milk, no butter)",
+            "Calories": 85.05,
+            "Saturated_Fats": 0.1785
+        },
+        {
+            "Display_Name": "French fries, deep-fried",
+            "Calories": 300.08,
+            "Saturated_Fats": 3.4496
+        },
+        {
+            "Display_Name": "Turkey breast lunch meat, fat free",
+            "Calories": 23.52,
+            "Saturated_Fats": 0.0574
+        },
+        {
+            "Display_Name": "Bean soup with ham",
+            "Calories": 221.13,
+            "Saturated_Fats": 1.3122
+        },
+        {
+            "Display_Name": "Corn tortilla",
+            "Calories": 23.754,
+            "Saturated_Fats": 0.03531
+        },
+        {
+            "Display_Name": "Plantain (boiled or baked)",
+            "Calories": 136.88,
+            "Saturated_Fats": 0.0826
+        },
+        {
+            "Display_Name": "Kiwifruit (raw)",
+            "Calories": 46.36,
+            "Saturated_Fats": 0.0228
+        },
+        {
+            "Display_Name": "Baked or broiled catfish",
+            "Calories": 208.656,
+            "Saturated_Fats": 2.9484
+        },
+        {
+            "Display_Name": "Powdered sugar (confectioner's sugar)",
+            "Calories": 116.7,
+            "Saturated_Fats": 0.006
+        },
+        {
+            "Display_Name": "Nectarine (raw)",
+            "Calories": 59.84,
+            "Saturated_Fats": 0.0408
+        },
+        {
+            "Display_Name": "Chicken fajitas with veggies & guacamole",
+            "Calories": 132.84,
+            "Saturated_Fats": 0.9512
+        },
+        {
+            "Display_Name": "Peanut sauce",
+            "Calories": 178.7625,
+            "Saturated_Fats": 2.93397
+        },
+        {
+            "Display_Name": "Diet high-fiber bread",
+            "Calories": 60.03,
+            "Saturated_Fats": 0.1595
+        },
+        {
+            "Display_Name": "Cornbread stuffing",
+            "Calories": 126.195,
+            "Saturated_Fats": 1.2408
+        },
+        {
+            "Display_Name": "Saltine cracker",
+            "Calories": 26.04,
+            "Saturated_Fats": 0.1758
+        },
+        {
+            "Display_Name": "Broccoli with cheese sauce",
+            "Calories": 120.84,
+            "Saturated_Fats": 3.6252
+        },
+        {
+            "Display_Name": "Carrot cake with icing",
+            "Calories": 244.8,
+            "Saturated_Fats": 2.298
+        },
+        {
+            "Display_Name": "Chocolate cupcake with icing/filling",
+            "Calories": 142.88,
+            "Saturated_Fats": 1.0868
+        },
+        {
+            "Display_Name": "Baked or broiled cod",
+            "Calories": 138.348,
+            "Saturated_Fats": 0.71442
+        },
+        {
+            "Display_Name": "Croissant",
+            "Calories": 272.02,
+            "Saturated_Fats": 7.8122
+        },
+        {
+            "Display_Name": "Waffle",
+            "Calories": 102.96,
+            "Saturated_Fats": 0.5616
+        },
+        {
+            "Display_Name": "Fried chicken thigh (eat skin)",
+            "Calories": 158.1,
+            "Saturated_Fats": 2.6102
+        },
+        {
+            "Display_Name": "Succotash (lima beans and corn)",
+            "Calories": 88.32,
+            "Saturated_Fats": 0.16224
+        },
+        {
+            "Display_Name": "Light soft serve ice cream",
+            "Calories": 220.5,
+            "Saturated_Fats": 2.8525
+        },
+        {
+            "Display_Name": "Artichoke",
+            "Calories": 13.5,
+            "Saturated_Fats": 0.0108
+        },
+        {
+            "Display_Name": "Fried chicken wing (no coating)",
+            "Calories": 136.74,
+            "Saturated_Fats": 2.4596
+        },
+        {
+            "Display_Name": "Noodle pudding",
+            "Calories": 148.32,
+            "Saturated_Fats": 1.1052
+        },
+        {
+            "Display_Name": "Wheat cracker",
+            "Calories": 56.0,
+            "Saturated_Fats": 0.62
+        },
+        {
+            "Display_Name": "Frosted Mini-Wheats cereal",
+            "Calories": 204.0,
+            "Saturated_Fats": 0.216
+        },
+        {
+            "Display_Name": "Grilled steak (eat lean & fat)",
+            "Calories": 688.16,
+            "Saturated_Fats": 15.9392
+        },
+        {
+            "Display_Name": "Rice and beans",
+            "Calories": 195.98,
+            "Saturated_Fats": 1.0277
+        },
+        {
+            "Display_Name": "Honey Bunches of Oats cereal",
+            "Calories": 157.6,
+            "Saturated_Fats": 0.32
+        },
+        {
+            "Display_Name": "Baked or broiled catfish",
+            "Calories": 115.92,
+            "Saturated_Fats": 1.638
+        },
+        {
+            "Display_Name": "Grilled steak (eat lean only)",
+            "Calories": 181.24,
+            "Saturated_Fats": 2.7876
+        },
+        {
+            "Display_Name": "Jam or preserves",
+            "Calories": 36.4,
+            "Saturated_Fats": 0.0014
+        },
+        {
+            "Display_Name": "100% whole wheat bagel",
+            "Calories": 345.84,
+            "Saturated_Fats": 0.3144
+        },
+        {
+            "Display_Name": "Mandarin oranges (light syrup)",
+            "Calories": 76.86,
+            "Saturated_Fats": 0.0126
+        },
+        {
+            "Display_Name": "Hard candy",
+            "Calories": 82.74,
+            "Saturated_Fats": 0.0
+        },
+        {
+            "Display_Name": "Beef brisket",
+            "Calories": 96.6,
+            "Saturated_Fats": 1.7346
+        },
+        {
+            "Display_Name": "Roasted turkey (white & dark meat)",
+            "Calories": 189.28,
+            "Saturated_Fats": 1.8256
+        },
+        {
+            "Display_Name": "Chicken liver pate",
+            "Calories": 56.9835,
+            "Saturated_Fats": 1.134
+        },
+        {
+            "Display_Name": "Raw carrots",
+            "Calories": 4.1,
+            "Saturated_Fats": 0.003
+        },
+        {
+            "Display_Name": "Moon pie",
+            "Calories": 239.97,
+            "Saturated_Fats": 2.6904
+        }
+    ]
+}
